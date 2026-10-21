@@ -14,7 +14,7 @@
 
 - что в работе – со ссылкой на issue: [#12](../../issues/12);
 
-- в работе - Написать первую главу отчета по анализу литературы: [#3](Ingur-5967/RecognizeHistoricalText/issues/3);
+- в работе - Написать первую главу отчета по анализу литературы: [#3](https://github.com/Ingur-5967/RecognizeHistoricalText/issues/3)
 
 - в работе - Исследовать методы OCR (Optical Character Recognition);
 
